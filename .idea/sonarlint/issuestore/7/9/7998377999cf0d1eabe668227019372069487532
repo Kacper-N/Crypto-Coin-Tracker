@@ -1,0 +1,32 @@
+
+h
+java:S1192G"SDefine a constant instead of duplicating this literal "redirect:/user/all" 3 times.(‰‹P
+e
+java:S1192v"JDefine a constant instead of duplicating this literal "portfolio" 3 times.(Ó¼®ôÿÿÿÿÿ
+t
+java:S1192"XDefine a constant instead of duplicating this literal "redirect:/portfolio/all" 3 times.(Ó©ªñøÿÿÿÿ
+j
+java:S1192Ï"SDefine a constant instead of duplicating this literal "redirect:/coin/all" 3 times.(–ñœ¯
+q
+java:S1192"ZDefine a constant instead of duplicating this literal "redirect:/transaction/all" 3 times.(®ÑƒÕ
+c
+java:S1192ş"LDefine a constant instead of duplicating this literal "transaction" 3 times.(­ÍÊÚ
+[
+java:S4684E"@Replace this persistent entity with a simple POJO or DTO object.(¬šäşıÿÿÿÿ
+V
+java:S4684W"@Replace this persistent entity with a simple POJO or DTO object.(ÚşÈ
+\
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(úÀèüÿÿÿÿ
+\
+java:S4684Ÿ"@Replace this persistent entity with a simple POJO or DTO object.(í‚»áüÿÿÿÿ
+^	java:S125´"<This block of commented-out lines of code should be removed.(È´—ûÿÿÿÿ8¼ÕóÒç0
+\
+java:S4684Í"@Replace this persistent entity with a simple POJO or DTO object.(Ãò³èúÿÿÿÿ
+\
+java:S4684ß"@Replace this persistent entity with a simple POJO or DTO object.(‘öşˆúÿÿÿÿ
+\
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ïĞõıÿÿÿÿ
+W
+java:S4684Ÿ"@Replace this persistent entity with a simple POJO or DTO object.(£°‚ê
+q
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.PutMapping'.(›¥÷ˆûÿÿÿÿ8ü¡‡Ôç0
