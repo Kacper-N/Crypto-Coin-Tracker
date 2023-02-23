@@ -21,7 +21,7 @@
                 <td><c:out value="${coin.name}"/></td>
                 <td><c:out value="${coin.amount}"/></td>
                 <td><c:out value="${coin.portfolio.name}"/></td>
-                <td><a href="/transaction/get/${coin.id}">View</a></td>
+                <td><a href="/coin/transactions/${coin.id}">Transactions</a></td>
                 <td><a href="/coin/get/${coin.id}">View</a></td>
                 <td><a href="/coin/edit/${coin.id}">Edit</a></td>
                 <td><a href="/coin/delete/${coin.id}">Delete</a></td>

@@ -10,5 +10,5 @@ import java.util.List;
 @Repository
 public interface CoinRepository extends JpaRepository<Coin,Long> {
     @Query("select c from Coin c where c.portfolio.id = :id")
-    List<Coin> findCoinsByPortfolio(@Param("id") long id);
+    List<Coin> findCoinsByPortfolioId(@Param("id") long id);
 }

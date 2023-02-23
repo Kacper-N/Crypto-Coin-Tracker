@@ -9,5 +9,5 @@ import java.util.List;
 @Repository
 public interface PortfolioRepository extends JpaRepository<Portfolio,Long> {
     @Query("select p from Portfolio p where p.user.id = :id")
-    List<Portfolio> findPortfoliosByUser(@Param("id") long id);
+    List<Portfolio> findPortfoliosByUserId(@Param("id") long id);
 }

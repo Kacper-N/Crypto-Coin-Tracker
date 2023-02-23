@@ -24,6 +24,10 @@ public class JpaTransactionService implements TransactionService {
         return transactionRepository.findById(transactionId);
     }
 
+    public List<Transaction> getTransactionsForCoin(Long id) {
+        return transactionRepository.findTransactionsByCoinId(id);
+    }
+
     @Override
     public void addTransaction(Transaction transaction) {
         transactionRepository.save(transaction);

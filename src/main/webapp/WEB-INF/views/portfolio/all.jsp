@@ -27,6 +27,7 @@
         </c:forEach>
         </tbody>
     </table>
+    <h4><a href="${pageContext.request.contextPath}/user/all">Go back to users</a></h4>
     <h4><a href="${pageContext.request.contextPath}/portfolio/add">Add new portfolio</a></h4>
 </body>
 </html>

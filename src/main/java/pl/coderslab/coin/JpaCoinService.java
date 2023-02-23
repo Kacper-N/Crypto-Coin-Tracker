@@ -24,7 +24,7 @@ public class JpaCoinService implements CoinService{
     }
 
     public List<Coin> getCoinsForPortfolio(Long id) {
-        return coinRepository.findCoinsByPortfolio(id);
+        return coinRepository.findCoinsByPortfolioId(id);
     }
 
     @Override

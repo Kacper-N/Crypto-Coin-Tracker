@@ -25,7 +25,7 @@ public class JpaPortfolioService implements PortfolioService {
     }
 
     public List<Portfolio> getPortfoliosForUser(Long id) {
-        return portfolioRepository.findPortfoliosByUser(id);
+        return portfolioRepository.findPortfoliosByUserId(id);
     }
 
     @Override
